@@ -1,0 +1,397 @@
+[0.0]
+ 作曲 : Ryan Tedder
+
+[0.556]
+ 作词 : Ryan Tedder
+
+[1.67]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[4.85]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[9.48]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[13.48]
+Said no more counting dollars
+不再财迷心窍
+
+[16.04]
+We'll be counting stars
+数钱不如数星星
+
+[18.92]
+Yeah, we'll be counting stars
+没错 我们一起来数星星
+
+[37.72]
+I see this life
+最近生活
+
+[39.03]
+Like a swinging vine
+如一团乱麻
+
+[40.34]
+Swing my heart across the line
+让我无所适从
+
+[42.09]
+And in my face is flashing signs
+脸上闪过各种迹象
+
+[43.97]
+Seek it out and ye' shall find
+遍寻之后 你会发现
+
+[46.16]
+Old, but I'm not that old
+我成熟 但没那么老练
+
+[48.16]
+Young, but I'm not that bold
+我年轻 却不那么鲁莽
+
+[49.91]
+And I don't think the world is sold
+我不认为这个世界无药可救
+
+[51.85]
+On just doing what we're told
+我只是循规蹈矩地为人处事
+
+[54.44]
+I-I-I-I feel something so right
+虽知何为中正
+
+[58.75]
+Doing the wrong thing
+却又离经叛道
+
+[61.75]
+I-I-I-I feel something so wrong
+虽知何处污浊
+
+[66.31]
+Doing the right thing
+却又随波逐流
+
+[69.88]
+I couldn't lie, couldn't lie, couldn't lie
+我无法自欺欺人
+
+[73.5]
+Everything that kills me makes me feel alive
+所有的绝地 都使我逢生
+
+[77.87]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[81.39]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[85.39]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[89.39]
+Said no more counting dollars
+别再财迷心窍
+
+[91.21000000000001]
+We'll be counting stars
+我们一起数星星
+
+[93.21000000000001]
+Lately, I've been, I've been losing sleep
+最近我夜不能寐
+
+[97.2]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[101.21000000000001]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[105.21000000000001]
+Said no more counting dollars
+别再财迷心窍
+
+[107.14]
+We'll be, we'll be counting stars
+我们一起数星星
+
+[116.39]
+I feel the love
+我感觉爱
+
+[117.64]
+And I feel it burn
+就在胸膛燃烧
+
+[119.08]
+Down this river, every turn
+如同潺潺流水 蜿蜒曲折
+
+[120.95]
+Hope is our four-letter word
+“希望”不过是个低俗字眼（亵玩之意）
+
+[122.95]
+Make that money
+把它变为金钱
+
+[123.64]
+Watch it burn
+看着它燃尽
+
+[124.95]
+Old, but I'm not that old
+我成熟 但没那么老练
+
+[126.83]
+Young, but I'm not that bold
+我年轻 却不那么鲁莽
+
+[128.7]
+And I don't think the world is sold
+我不认为这个世界无药可救
+
+[130.96]
+On just doing what we're told
+我只是循规蹈矩地为人处事
+
+[133.02]
+I-I-I-I feel something so wrong
+在随波逐流中
+
+[137.21]
+Doing the right thing
+痛感乏善可陈
+
+[140.4]
+I couldn't lie, couldn't lie, couldn't lie
+我无法自欺欺人
+
+[144.64]
+Everything that drowns me makes me wanna fly
+任何的打击 都让我重振旗鼓
+
+[148.64]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[152.25]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[156.16]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[160.1]
+Said no more counting dollars
+别再财迷心窍
+
+[162.03]
+We'll be counting stars
+我们一起数星星
+
+[164.22]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[168.16]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[171.91]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[175.97]
+Said no more counting dollars
+别再财迷心窍
+
+[177.86]
+We'll be, we'll be counting stars
+我们一起数星星
+
+[184.1]
+Take that money
+身外之物
+
+[184.73]
+Watch it burn
+皆可抛
+
+[185.6]
+Sink in the river
+将其沉河
+
+[186.48]
+The lessons I learned
+ 已受教
+
+[187.61]
+Take that money
+身外之物
+
+[188.49]
+Watch it burn
+皆可抛
+
+[189.42]
+Sink in the river
+将其沉河
+
+[190.42]
+The lessons I learned
+ 已受教
+
+[191.54]
+Take that money
+身外之物
+
+[192.29]
+Watch it burn
+皆可抛
+
+[193.29]
+Sink in the river
+将其沉河
+
+[194.29]
+The lessons I learned
+ 已受教
+
+[195.42]
+Take that money
+身外之物
+
+[196.17000000000002]
+Watch it burn
+皆可抛
+
+[197.23]
+Sink in the river
+将其沉河
+
+[198.17000000000002]
+The lessons I learned
+ 已受教
+
+[199.61]
+Everything that kills me makes me feel alive
+沉舟侧畔千帆过 病树前头万木春
+
+[206.67000000000002]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[210.35]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[214.22]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[218.29]
+Said no more counting dollars
+别再财迷心窍
+
+[220.04]
+We'll be counting stars
+我们一起数星星
+
+[222.1]
+Lately, I've been, I've been losing sleep
+最近我辗转反侧
+
+[226.22]
+Dreaming about the things that we could be
+梦想着我们的愿景
+
+[229.97]
+But baby, I've been, I've been praying hard
+但亲爱的 我一直在努力祈祷
+
+[234.1]
+Said no more counting dollars
+别再财迷心窍
+
+[235.91]
+We'll be, we'll be counting stars
+我们一起数星星
+
+[238.4]
+Take that money
+身外之物
+
+[238.91]
+Watch it burn
+皆可抛
+
+[239.72]
+Sink in the river
+将其沉河
+
+[240.65]
+The lessons I've learned
+ 已受教
+
+[241.72]
+Take that money
+身外之物
+
+[242.4]
+Watch it burn
+皆可抛
+
+[243.47]
+Sink in the river
+将其沉河
+
+[244.53]
+The lessons I've learned
+ 已受教
+
+[245.65]
+Take that money
+身外之物
+
+[246.41]
+Watch it burn
+皆可抛
+
+[247.47]
+Sink in the river
+将其沉河
+
+[248.34]
+The lessons I've learned
+已受教
+
+[249.53]
+Take that money
+身外之物
+
+[250.15]
+Watch it burn
+皆可抛
+
+[251.28]
+Sink in the river
+将其沉河
+
+[252.35]
+The lessons I've learned
+已受
