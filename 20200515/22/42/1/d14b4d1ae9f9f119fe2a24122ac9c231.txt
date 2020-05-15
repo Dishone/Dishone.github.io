@@ -1,0 +1,153 @@
+[0.0]
+ Vocal:星街彗星
+ 轴:SuISeI丶
+[19.68]
+お呼びですか?
+是你的呼声吗？
+[21.58]
+ねえ 言いかけたSOSはマジだ
+我说 刚刚发出的SOS是真的
+[25.95]
+ほら まさにここで素直じゃなきゃ
+你看 在这个时候一定要直率
+[29.81]
+何か願うなら キミと恋に落ちたGenieよ
+要说有什么愿望的话 我可是与你陷入爱情的Genie哦
+[36.12]
+キレイゴトってよりも自己中の方がマシね
+比起花哨的女孩们谈情说爱 还是以我为中心要好些
+[39.99]
+まずは言わなきゃわかんないでしょ
+起初不说的话是不会明白的吧
+[43.64]
+言葉は意外にも 魔力を秘めてるの
+意外地 言语隐藏着的魔力
+[47.65]
+正直な キミの夢は?
+诚实的你的梦想 是什么呢
+[50.93]
+そうよ この地球(ほし)は思い通り
+是啊 这个地球就如想的那样
+[55.3]
+二人なら望み通り 未来さえもお見通し
+两人一起的话 就能如愿 连未来都能预测
+[63.08]
+叶えてあげる
+我来帮你实现
+[66.07]
+ココにいるわI'm Genie for you, boy
+我就在这里 I'm Genie for you, boy
+[69.46000000000001]
+キミも来ればI'm Genie for your wish
+要是你来的话I'm Genie for your wish
+[73.14]
+好きになればI'm Genie for your dream
+如果喜欢上的话I'm Genie for your dream
+[77.07]
+もっとなればI'm Genie for your world
+如果更加强烈的话I'm Genie for your world
+[82.46000000000001]
+覚悟できた?
+做好觉悟了吗？
+[84.38]
+退屈なんでしょ 同じ日々は
+过着每天都一样的日子很无聊吧？
+[88.32]
+前に進むなら むしろ派手な
+要是向前走的话
+[92.24000000000001]
+強気のgoサイン キミはSuperstar,
+那就干脆发个响亮又硬气的前进信号
+[95.53]
+Shining star, Superstar
+你就是Superstar,Shining star, Superstar
+[98.1]
+ツジツマ合わすように運命に飛び乗って
+自然而然地跃上命运的列车
+[102.22]
+気の向く方へドライブでしょ
+朝向往的方向驶去
+[106.18]
+世界は意外にも 単純に出来てるの
+虽然世界意外的单纯
+[110.05]
+ナイショだよ I'm just your Biggest fan
+I'm just your Biggest fan 这是秘密哦
+[113.43]
+そうよ この地球(ほし)は思い通り
+是啊 这个地球就如想的那样
+[117.75]
+二人なら望み通り 未来さえもお見通し
+两人一起的话 就连未来都能预见
+[125.47]
+叶えてあげる
+我来帮你实现
+[128.66]
+ココにいるわI'm Genie for you, boy
+我就在这里 I'm Genie for you, boy
+[131.53]
+キミも来ればI'm Genie for your wish
+要是你来的话I'm Genie for your wish
+[135.66]
+好きになればI'm Genie for your dream
+如果喜欢上的话I'm Genie for your dream
+[139.4]
+もっとなればI'm Genie for your world
+如果更加强烈的话I'm Genie for your world
+[143.49]
+クセになるわ
+会沉迷的
+[152.73]
+DJ! Put it back on
+DJ! Put it back on
+[156.16]
+まるで 地球儀を回すように
+简直就和转动地球仪一样
+[160.76]
+奇跡さえ手順通り
+连奇迹也能一个个发生
+[164.86]
+ロマンティックが欲しいなら
+想要romantic的话
+[168.23]
+叶えてあげる グっと来るわ
+我可以嗖地为你实现
+[172.62]
+この胸を焦がすMusic
+心急如焚的Music
+[176.26]
+始まりはAutomatic
+开始是Automatic
+[180.29]
+ただ一人キミはMagic
+只身一人的你是Magic
+[184.73]
+叶えて欲しい
+想要实现愿望
+[187.21]
+ココにいるわI'm Genie for you, boy
+我就在这里 I'm Genie for you, boy
+[190.34]
+キミも来ればI'm Genie for your wish
+要是你来的话I'm Genie for your wish
+[194.35]
+好きになればI'm Genie for your dream
+如果喜欢上的话I'm Genie for your dream
+[197.98]
+もっとなればI'm Genie for your world
+如果更加强烈的话I'm Genie for your world
+[202.47]
+きっとなるわ
+一定会这样的
+[203.95]
+I'm Genie for you, boy
+I'm Genie for you, boy
+[206.16]
+好きになれば
+如果爱上的话
+[208.5]
+I'm Genie for your wish
+I'm Genie for your wish
+[210.28]
+クセになるわ
+沉迷其中
